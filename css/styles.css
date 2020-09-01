@@ -52,3 +52,27 @@ h1{
 .download-button{
   margin: 5% 3% 5% 0;
 }
+
+/* Features Section */
+#features{
+  padding: 7% 15%;
+}
+.features-icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.features-icon:hover{
+  color: #ff4c68;
+}
+.features-title{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.center-col{
+  text-align: center;
+  padding: 5%
+}
+.features-p{
+  color: #8f8f8f;
+}

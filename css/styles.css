@@ -16,12 +16,15 @@ h2{
 }
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 .iphone{
   transform: rotate(25deg);
-  width: 60%
+  width: 60%;
+  position: absolute;
+  right: 30%;
+
 }
 
 .title-text{
@@ -31,6 +34,7 @@ h2{
 #title{
   background-color: #FF4C68;
   color: white;
+
 }
 /* Navigation Bar */
 
@@ -63,6 +67,9 @@ h2{
 /* Features Section */
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+
 }
 .features-icon{
   color: #ef8172;
@@ -90,6 +97,7 @@ h2{
   text-align: center;
   background-color: #ef8172;
   color: white;
+
 }
 .testimonial-image{
   border-radius: 100%;
